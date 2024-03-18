@@ -1,7 +1,5 @@
 # ✅ Observações para o melhor uso do repositório
 
-## 💫 Tour
-
 - Esse projeto foi feito durante as aulas da Alura, diante do curso de "Lógica de programação: mergulhe em programação com JavaScript".
 
 - **TODO** o conteúdo referente a HTML e CSS foi feito e disponibilizado pela Alura.
